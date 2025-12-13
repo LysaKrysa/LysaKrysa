@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on ~~**a marketplace**~~
  
- 🌱 I’m currently learning **nothing*
+ 🌱 I’m currently learning **nothing**
 
 💬 Ask me about **Node.js, Python, MongoDB...**
 
