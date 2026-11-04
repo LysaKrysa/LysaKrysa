@@ -4,7 +4,7 @@
 
 <p><strong>LysaKrysa · Developer from Poland 🇵🇱</strong></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3200&amp;pause=1400&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=50&amp;lines=Web+apps+%26+Discord+bots;JavaScript+%C2%B7+TypeScript+%C2%B7+Python" width="600" alt="Animated text: Web apps and Discord bots; JavaScript, TypeScript, Python." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3200&amp;pause=1400&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=50&amp;lines=Web+apps+%26+Random+projects;JavaScript+%C2%B7+TypeScript+%C2%B7+Python" width="600" alt="Animated text: Web apps and Discord bots; JavaScript, TypeScript, Python." />
 
 <br />
 
