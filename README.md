@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="./assets/profile-header.gif" width="100%" alt="Kryspin Nowak — developer from Poland. Animated text: Building web applications. Creating Discord bots." />
+<h1>Hi, I'm Kryspin <span>👋</span></h1>
+
+<p><strong>LysaKrysa · Developer from Poland 🇵🇱</strong></p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3200&amp;pause=1400&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=50&amp;lines=Web+apps+%26+Discord+bots;JavaScript+%C2%B7+TypeScript+%C2%B7+Python" width="600" alt="Animated text: Web apps and Discord bots; JavaScript, TypeScript, Python." />
 
 <br />
 
@@ -10,13 +14,9 @@
 
 <br /><br />
 
-### Hey, I'm Kryspin 👋
-
-You might know me as **LysaKrysa**. I'm a developer from **Poland 🇵🇱**<br />
-building web apps, Discord bots, and creative side projects.
-
-JavaScript, TypeScript, and Python are at the heart of what I build.<br />
-Outside the web, my toolbox also includes Blender, Arduino, and Raspberry Pi.
+I build web apps, Discord bots, and creative side projects.<br />
+You'll mostly find me working with **JavaScript, TypeScript, and Python**.<br />
+I also like working with **Blender, Arduino, and Raspberry Pi**.
 
 <br />
 
@@ -35,11 +35,27 @@ Outside the web, my toolbox also includes Blender, Arduino, and Raspberry Pi.
 
 ### ✨ A few things I've built
 
-<a href="https://github.com/LysaKrysa/Chatt"><img src="./assets/chatt.png" width="100%" alt="Chatt — real-time messaging with private chats, groups, and communities. React, TypeScript, Supabase." /></a>
+<p>
+<a href="https://github.com/LysaKrysa/Chatt"><strong>Chatt</strong></a><br />
+Real-time messaging, group chats, and communities.<br />
+<sub>React · TypeScript · Supabase</sub>
+</p>
 
-<a href="https://github.com/LysaKrysa/FanTimeline"><img src="./assets/fan-timeline.png" width="100%" alt="Fan Timeline — a personal concert and festival journal. React, TypeScript, Vite." /></a>
+<p>✦</p>
 
-<a href="https://github.com/LysaKrysa/Review-Discord-Bot"><img src="./assets/discord-review-bot.png" width="100%" alt="Discord Review Bot — community reviews in Discord with a searchable web interface. Python, Flask, SQLite." /></a>
+<p>
+<a href="https://github.com/LysaKrysa/FanTimeline"><strong>Fan Timeline</strong></a><br />
+A personal journal for concerts, festivals, and the memories in between.<br />
+<sub>React · TypeScript · Vite</sub>
+</p>
+
+<p>✦</p>
+
+<p>
+<a href="https://github.com/LysaKrysa/Review-Discord-Bot"><strong>Discord Review Bot</strong></a><br />
+Community reviews in Discord, with a searchable web interface.<br />
+<sub>Python · Flask · SQLite</sub>
+</p>
 
 **[More projects on my GitHub →](https://github.com/LysaKrysa?tab=repositories&type=public)**
 
